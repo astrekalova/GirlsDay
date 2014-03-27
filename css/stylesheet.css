@@ -1,0 +1,9 @@
+h1 { color: green; font-size: 120px; font-family: 'Lobster Two'; }
+
+p { color: black; font-size: 30px; font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; }
+
+.blue{color:blue;}
+
+body { background: #f7e8aa; } 
+
+.thumbnail { float:left; margin:5px; } 
